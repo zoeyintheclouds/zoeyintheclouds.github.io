@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Project source code (lives in its own repos, not needed for the site)
+specforge/
+chimebot/
+
+# CV LaTeX source (contains phone number; not part of the website)
+cv.tex
+
+# Editor duplicate / scratch files
+main.md 2
+*.log
